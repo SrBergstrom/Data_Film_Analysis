@@ -37,6 +37,17 @@
 
 
 
+
+## <span style="color:blue;">Produccion po Tipo de Contenido</span>
+<div align="center">
+    <img src="https://drive.google.com/uc?id=1vSdFlq7o__ZK3qjZr88P_YiFLHU3O7Zx" alt="Logo del Proyecto" style="width: 100%; height: auto;">
+</div>
+<div align="center">
+    Sorprendentemente, la animación tiene un presupuesto de producción relativamente bajo; con solo un millón de dólares se puede crear una animación de calidad. Sin embargo, lo más destacado es que este género presenta uno de los índices de retorno más altos, con ganancias que pueden alcanzar hasta el 200%. Además, como observamos anteriormente, la animación está en constante crecimiento en términos de rating, lo que la convierte en una opción de inversión extremadamente atractiva.
+</div>
+
+
+
 ## Tabla de Contenidos 📋
 
 1. [Introducción](#introducción)
