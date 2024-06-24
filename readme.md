@@ -87,10 +87,6 @@
     <img src="https://drive.google.com/uc?id=1gWzfyis5xhhczZOwmuEiwlR56qcBcKV4" alt="Producción por Tipo de Contenido" style="width: 100%; height: auto;">
 </div>
 
-<div align="center">
-    Dos factores clave identificados en el análisis son, primero, que a medida que la popularidad de una película aumenta, también lo hace su retorno de inversión (ROI). Sin embargo, el segundo factor crucial es la duración de la película. Si una película es demasiado larga, la audiencia puede perder interés, lo que puede complicar nuestros planes. Por lo tanto, es fundamental calcular una duración promedio que no afecte negativamente el ROI de nuestra animación, ya que, en otros aspectos, cumple con los requisitos y se presenta como la opción más viable.
-</div>
-
 ---
 
 ## <span style="color:blue;">Conclusión</span>
@@ -98,6 +94,3 @@
 <div align="center">
 Después de realizar un exhaustivo análisis, recomendamos enfocar tu próxima producción filmográfica en una serie animada del género de acción e historia, con episodios de aproximadamente 30 minutos de duración. Es fundamental considerar la producción en inglés, japonés y francés, ya que estos idiomas dominan los mercados más receptivos para estos géneros. Además, los cortos animados han mostrado un crecimiento significativo, lo que sugiere que es una excelente estrategia crear cortos atractivos para captar la atención de nuevos espectadores potenciales. Este enfoque no solo se alinea con las tendencias actuales de aumento en la popularidad y retorno de inversión en la animación, sino que también aprovecha el bajo costo de producción y el alto potencial de crecimiento en el mercado. Es momento de contratar a tu equipo creativo y aprovechar estas oportunidades en la animación.
 </div>
-
----
-
