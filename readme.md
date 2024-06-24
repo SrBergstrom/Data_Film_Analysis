@@ -27,6 +27,15 @@
 </div>
 
 
+## <span style="color:blue;">Produccion po Tipo de Contenido</span>
+<div align="center">
+    <img src="https://drive.google.com/uc?id=1iZeHnyRP_4FeJyvJt6wzZvpehKHXVJss" alt="Logo del Proyecto" style="width: 100%; height: auto;">
+</div>
+<div align="center">
+    Es notable que los episodios de TV tienen el rating más alto, y dentro de este contexto podemos analizar los géneros que hemos estado evaluando, los cuales siguen manteniéndose en la cima, como se mencionó anteriormente. Sin embargo, es fundamental considerar que los episodios de TV y las series televisivas destacan por tener los ratings más altos, posiblemente debido a que la mayoría de los hogares cuentan con más de un televisor. Este aspecto debe ser tomado en cuenta de manera cuidadosa en nuestras evaluaciones.
+</div>
+
+
 
 ## Tabla de Contenidos 📋
 
