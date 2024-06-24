@@ -9,7 +9,7 @@ Vamos a sumergirnos en 50 años de datos cinematográficos para descubrir qué g
 
 ## <span style="color:blue;">Porcentaje de Produccion por Genero</span>
 <div align="center">
-    <img src="https://drive.google.com/file/d/1_qBWmjvPg6qYFjXqizLOrjeoOscMa-xB/view?usp=sharing" alt="Logo del Proyecto" style="width: 100%; height: auto;">
+    <img src="https://drive.google.com/uc?id=1_qBWmjvPg6qYFjXqizLOrjeoOscMa-xB" alt="Logo del Proyecto" style="width: 100%; height: auto;">
 </div>
 
 Como se puedeobservar, losgénerosmásdestacadosenla listade películashanmantenidosuposicióncon elpaso de losaños, a excepcióndel génerode noticias, que ha experimentadoun ligero aumentoensupopularidad. Los génerospreferidosporlas productorasincluyendrama, comedia, talk shows, cortometrajesy documentales. Sin embargo, ¿son estoslosque generanmásganancias? Vamos a analizarnlo detenidamente. Sugerimosprestarespecial atencióna la animación, la accióny loscortometrajes, ya que estos géneros podrían ofrecer sorpresas interesantes en términos de rentabilidad.
