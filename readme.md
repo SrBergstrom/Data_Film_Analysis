@@ -7,7 +7,7 @@
 1. [Optimización de Contenidos](#optimización-de-contenidos)
 2. [Porcentaje de Producción por Género](#porcentaje-de-producción-por-género)
 3. [Evolución de Rating a través de los Años](#evolución-de-rating-a-través-de-los-años)
-4. [Producción por Tipo de Contenido](#Producción-Por-Tipo-de-Contenido)
+4. [Producción por Tipo de Contenido](#producción-por-tipo-de-contenido)
 5. [Conclusión](#conclusión)
 
 ---
