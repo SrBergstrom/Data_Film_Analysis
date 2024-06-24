@@ -57,14 +57,26 @@
 
 ---
 
-## Producción por Tipo de Contenido 🎥
+## Presupuesto de Producción y ROI Generado 🎥
 
 <div align="center">
-    <img src="https://drive.google.com/uc?id=1vSdFlq7o__ZK3qjZr88P_YiFLHU3O7Zx" alt="Producción por Tipo de Contenido" style="width: 80%; height: auto;">
+    <img src="https://drive.google.com/uc?id=1vSdFlq7o__ZK3qjZr88P_YiFLHU3O7Zx" alt="Presupuesto de Producción y ROI Generado" style="width: 80%; height: auto;">
 </div>
 
 <div align="justify">
-    Sorprendentemente, la animación tiene un presupuesto de producción relativamente bajo; con solo un millón de dólares se puede crear una animación de calidad. Sin embargo, lo más destacado es que este género presenta uno de los índices de retorno más altos, con ganancias que pueden alcanzar hasta el 200%. Además, como observamos anteriormente, la animación está en constante crecimiento en términos de rating, lo que la convierte en una opción de inversión extremadamente atractiva.
+    Sorprendentemente, la animación tiene un presupuesto de producción relativamente bajo; con solo un millón de dólares se puede crear una animación de calidad. Además, este género presenta uno de los índices de retorno más altos, con ganancias que pueden alcanzar hasta el 200%. Como hemos observado, la animación está en constante crecimiento en términos de rating, lo que la convierte en una opción de inversión extremadamente atractiva.
+</div>
+
+---
+
+## Factores Influyentes en el ROI 🎬
+
+<div align="center">
+    <img src="https://drive.google.com/uc?id=1eVxB2UKoLq7KOlVkFloEGLyX4il_v0ur" alt="Factores Influyentes en el ROI" style="width: 80%; height: auto;">
+</div>
+
+<div align="justify">
+    Dos factores clave identificados en el análisis son, primero, que a medida que la popularidad de una película aumenta, también lo hace su retorno de inversión (ROI). Sin embargo, el segundo factor crucial es la duración de la película. Si una película es demasiado larga, la audiencia puede perder interés, lo que puede complicar nuestros planes. Por lo tanto, es fundamental calcular una duración promedio que no afecte negativamente el ROI de nuestra animación, ya que, en otros aspectos, cumple con los requisitos y se presenta como la opción más viable.
 </div>
 
 ---
@@ -72,7 +84,7 @@
 ## Países con Mayor Producción de Contenido 🎥
 
 <div align="center">
-    <img src="https://drive.google.com/uc?id=1eVxB2UKoLq7KOlVkFloEGLyX4il_v0ur" alt="Países con Mayor Producción de Contenido" style="width: 80%; height: auto;">
+    <img src="https://drive.google.com/uc?id=1gWzfyis5xhhczZOwmuEiwlR56qcBcKV4" alt="Países con Mayor Producción de Contenido" style="width: 80%; height: auto;">
 </div>
 
 ---
@@ -82,4 +94,3 @@
 <div align="justify">
     Después de realizar un exhaustivo análisis, recomendamos enfocar tu próxima producción filmográfica en una serie animada del género de acción e historia, con episodios de aproximadamente 30 minutos de duración. Es fundamental considerar la producción en inglés, japonés y francés, ya que estos idiomas dominan los mercados más receptivos para estos géneros. Además, los cortos animados han mostrado un crecimiento significativo, lo que sugiere que es una excelente estrategia crear cortos atractivos para captar la atención de nuevos espectadores potenciales. Este enfoque no solo se alinea con las tendencias actuales de aumento en la popularidad y retorno de inversión en la animación, sino que también aprovecha el bajo costo de producción y el alto potencial de crecimiento en el mercado. Es momento de contratar a tu equipo creativo y aprovechar estas oportunidades en la animación.
 </div>
-
