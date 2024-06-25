@@ -1,0 +1,6 @@
+DATA -> Full TMDB Movie Dataset
+https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies 
+
+DATA -> IMDB Dataset
+https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset
+
